@@ -1,1 +1,1 @@
-# icp-openmp-kdtree
+# openmp icp pointcloud
